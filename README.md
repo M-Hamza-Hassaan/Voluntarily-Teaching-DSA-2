@@ -10,6 +10,44 @@ The repository contains all the course-relevant material, such as slides, lectur
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
+# Trainers & Moderators
+
+<table >
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/muhammad-shaharyar-sarwar/">
+                    <img src= "https://avatars.githubusercontent.com/u/88059515?v=4" width="100px;" alt="Muhammad Shaharyar"/>
+                    <br />
+                    <sub><b>Muhammad Shaharyar</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://linkedin.com/in/muhammad-hamza-hassaan/">
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFz2oePOreODA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722883053713?e=1741824000&v=beta&t=-RUJQceqB3Cv2xeSX4_ZA8WWxc7gpCBW4GSp2Ey0Cfc" width="100px; alt="Abdul Munnam"/>
+                    <br />
+                    <sub><b>Muhammad Hamza Hassaan</b></sub>
+                </a> 
+            </td>
+           <td align="center">
+                <a href="https://www.linkedin.com/in/ifrah-tariq2/">
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFNlx1BFLxuUg/profile-displayphoto-shrink_400_400/B4DZPwGaDAGUAk-/0/1734900032805?e=1741824000&v=beta&t=D0YKjv3GnEdOs2z25aC5ZRXQaU1ak4fdkR3964vVfFc" width="100px; alt="Ifrah Tariq"/>
+                    <br />
+                    <sub><b>Ifrah Tariq</b></sub>
+                </a> 
+            </td>
+           <td align="center">
+                <a href="https://www.linkedin.com/in/afsheenghuman/">
+                    <img src="https://avatars.githubusercontent.com/u/67103449?v=4" width="100px;" alt="Afsheen Ghuman"/>
+                    <br />
+                    <sub><b>Afsheen Ghuman</b></sub>
+                </a> 
+            </td>
+</tbody>
+<table>
+
+
+
 # Week 01
 
 <table>
