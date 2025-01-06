@@ -1,9 +1,9 @@
-# Welcome to Data structures and algorithms for absolute beginners course
+# Welcome to the Data Structures and Algorithms for Absolute Beginners Course
 **Here, You'll Find:**
 <br>
 The repository contains all the course-relevant material, such as slides, lecture recordings, and leetCode problem links.
 
-**Beginner Friendly LeetCode practice session Lectures** This course is designed for absolute beginners helping them kick off their coding journey. We will cover
+**Beginner Friendly LeetCode practice session lectures** This course is designed for absolute beginners helping them kick off their coding journey. We will cover
  everything from Arrays 𝘁𝗼 Space and Time Complexity and Queue.
 
  **LinkedIn Post:** [Click here](https://www.linkedin.com/posts/muhammad-shaharyar-sarwar_dsa-datastructures-codingjourney-activity-7255836119311761408-FZIm?utm_source=share&utm_medium=member_desktop)
