@@ -1,4 +1,4 @@
-# Welcome to 7 am-pkt-data-structures-and-algorithms-for-absolute-beginners-course
+# Welcome to Data structures and algorithms for absolute beginners course
 **Here, You'll Find:**
 <br>
 The repository contains all the course-relevant material, such as slides, lecture recordings, and leetCode problem links.
@@ -9,8 +9,6 @@ The repository contains all the course-relevant material, such as slides, lectur
  **LinkedIn Post:** [Click here](https://www.linkedin.com/posts/muhammad-shaharyar-sarwar_dsa-datastructures-codingjourney-activity-7255836119311761408-FZIm?utm_source=share&utm_medium=member_desktop)
  
  **Presenters Names:** [Click here](https://docs.google.com/spreadsheets/d/1shHGNfoxfH_gK7CmEY8AmaSt1JJHEGcOdFpsctkZJpw/edit?usp=sharing)
-
-**Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
 # Trainers & Moderators
 
