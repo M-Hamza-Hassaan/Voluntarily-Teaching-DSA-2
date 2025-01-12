@@ -8,7 +8,7 @@ The repository contains all the course-relevant material, such as slides, lectur
 
  **LinkedIn Post:** [Click here](https://www.linkedin.com/posts/muhammad-shaharyar-sarwar_dsa-datastructures-codingjourney-activity-7255836119311761408-FZIm?utm_source=share&utm_medium=member_desktop)
  
- **Presenters Names:** [Click here](https://docs.google.com/spreadsheets/d/1shHGNfoxfH_gK7CmEY8AmaSt1JJHEGcOdFpsctkZJpw/edit?usp=sharing)
+ **Excel Sheet:** [Click here](https://docs.google.com/spreadsheets/d/1shHGNfoxfH_gK7CmEY8AmaSt1JJHEGcOdFpsctkZJpw/edit?usp=sharing)
 
 # Trainers & Moderators
 
@@ -56,37 +56,31 @@ The repository contains all the course-relevant material, such as slides, lectur
             <th>Days</th>
             <th>Video Links (Facebook)</th>
             <th>Questions</th>
-            <th>Presenter Name</th>
         </tr> 
         <tr>
             <td align="center"><b>1</b></td>
             <td align="center"><a href="https://fb.watch/uDEwSxWKqT/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/description/">Find lucky integer in an array</a></td>
-            <td align="center">Afsheen Ghuman</td>
         </tr>
         <tr>
             <td align="center"><b>2</b></td>
             <td align="center"><a href="https://fb.watch/uEGrgB6kCh/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/plus-one/description/">Plus one</a></td>
-            <td align="center">Ifra Tariq</td>
         </tr>  
         <tr>
             <td align="center"><b>3</b></td>
             <td align="center"><a href="https://fb.watch/uHjCKKWIef/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove duplicates from sorted array</a></td>
-            <td align="center">M.Hamza Hassaan</td>
         </tr>
         <tr>
             <td align="center"><b>4</b></td>
             <td align="center"><a href="https://fb.watch/uHjqTqvlzW/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/remove-element/">Remove element</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>5</b></td>
             <td align="center"><a href="https://fb.watch/uKyle3tBVy/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/unique-email-addresses/">Unique email addresses</a></td>
-            <td align="center">Ifra Tariq</td>
         </tr>
     </tbody>
 </table>
@@ -100,13 +94,11 @@ The repository contains all the course-relevant material, such as slides, lectur
             <th>Days</th>
             <th>Video Links (Facebook)</th>
             <th>Questions</th>
-            <th>Presenter Name</th>
         </tr> 
         <tr>
             <td align="center"><b>1</b></td>
             <td align="center"><a href="https://fb.watch/uMB8fQK2Km/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort array by parity</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>2</b></td>
@@ -115,7 +107,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/rotate-array/">Rotate array</a><br>
                 <a href="https://leetcode.com/problems/3sum/description/">3sum</a>
             </td>
-            <td align="center">M.Hamza Hassaan</td>
         </tr>  
         <tr>
             <td align="center"><b>3</b></td>
@@ -124,7 +115,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/reverse-string/">Reverse string</a><br>
                 <a href="https://leetcode.com/problems/merge-strings-alternately/">Merge strings alternately</a>
             </td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>4</b></td>
@@ -133,7 +123,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/">Remove duplicates from sorted array</a><br>
                 <a href="https://leetcode.com/problems/move-zeroes/description/">Move zeroes</a>
             </td>
-            <td align="center">Afsheen Ghuman</td>
         </tr>
         <tr>
             <td align="center"><b>5</b></td>
@@ -141,7 +130,6 @@ The repository contains all the course-relevant material, such as slides, lectur
             <td align="center">
                 <a href="https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/">Array with elements not equal to average of neighbors</a>
             </td>
-            <td align="center">M.Shaharyar</td>
         </tr>
     </tbody>
 </table>
@@ -156,7 +144,6 @@ The repository contains all the course-relevant material, such as slides, lectur
             <th>Days</th>
             <th>Video Links (Facebook)</th>
             <th>Questions</th>
-            <th>Presenter Name</th>
         </tr> 
         <tr>
             <td align="center"><b>1</b></td>
@@ -165,7 +152,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/isomorphic-strings/description/">Isomorphic strings</a><br>
                 <a href="https://leetcode.com/problems/two-sum/">Two sum</a>
             </td>
-            <td align="center">Ifra Tariq , M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>2</b></td>
@@ -174,7 +160,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/contiguous-array/description/">Contiguous array</a><br>
                 <a href="https://leetcode.com/problems/number-of-good-pairs/description/">Number of good pairs</a>
             </td>
-            <td align="center">M.Hamza Hassaan , Afsheen Ghuman</td>
         </tr>  
         <tr>
             <td align="center"><b>3</b></td>
@@ -184,7 +169,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/contains-duplicate-ii/description/">Contains duplicate ii</a><br>
                 <a href="https://leetcode.com/problems/integer-to-roman/description/">Integer to roman</a>
             </td>
-            <td align="center">Afsheen Ghuman</td>
         </tr>
         <tr>
             <td align="center"><b>4</b></td>
@@ -192,7 +176,6 @@ The repository contains all the course-relevant material, such as slides, lectur
             <td align="center">
                 <a href="https://leetcode.com/problems/majority-element/">Majority element</a>
             </td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>5</b></td>
@@ -200,7 +183,6 @@ The repository contains all the course-relevant material, such as slides, lectur
             <td align="center">
                 <a href="https://leetcode.com/problems/majority-element/">Majority element</a>
             </td>
-            <td align="center">M.Hamza Hassaan</td>
         </tr>
     </tbody>
 </table>
@@ -214,37 +196,31 @@ The repository contains all the course-relevant material, such as slides, lectur
             <th>Days</th>
             <th>Video Links (Facebook)</th>
             <th>Questions</th>
-            <th>Presenter Name</th>
         </tr> 
         <tr>
             <td align="center"><b>1</b></td>
             <td align="center"><a href="https://fb.watch/v4a0VCzFej/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/">Link</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>2</b></td>
             <td align="center"><a href="https://fb.watch/v4mzvuXG4s/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/">Link</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>  
         <tr>
             <td align="center"><b>3</b></td>
             <td align="center"><a href="https://fb.watch/v5HAILTdm1/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best time to buy and sell stock</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>4</b></td>
             <td align="center"><a href="https://fb.watch/v6-WZpWckV/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest substring without repeating characters</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>5</b></td>
             <td align="center"><a href="https://fb.watch/v8jAsD0Gp3/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/majority-element/">Majority element</a></td>
-            <td align="center">Quaid Khalid</td>
         </tr>
     </tbody>
 </table>
@@ -258,7 +234,6 @@ The repository contains all the course-relevant material, such as slides, lectur
             <th>Days</th>
             <th>Video Links (Facebook)</th>
             <th>Questions</th>
-            <th>Presenter Name</th>
         </tr> 
         <tr>
             <td align="center"><b>1</b></td>
@@ -267,19 +242,16 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/guess-number-higher-or-lower/description/">Guess number higher or lower</a><br>
                 <a href="https://leetcode.com/problems/binary-search/description/">Binary search</a>
             </td>
-            <td align="center">M.Hamza Hassaan, M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>2</b></td>
             <td align="center"><a href="https://fb.watch/vdB5tra77T/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2d matrix</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>  
         <tr>
             <td align="center"><b>3</b></td>
             <td align="center"><a href="https://fb.watch/vf0uCYGusu/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/squares-of-a-sorted-array/description/">Squares of a sorted array</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>4</b></td>
@@ -288,13 +260,11 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/squares-of-a-sorted-array/description/">Squares of a sorted array</a><br>
                 <a href="https://leetcode.com/problems/valid-perfect-square/">Valid perfect square</a>
             </td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>5</b></td>
             <td align="center"><a href="https://fb.watch/vmK1jPdneE/">Lecture Recording</a></td>
             <td align="center"><a href="https://leetcode.com/problems/sqrtx/description/">Sqrtx</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>
     </tbody>
 </table>
@@ -309,7 +279,6 @@ The repository contains all the course-relevant material, such as slides, lectur
             <th>Days</th>
             <th>Video Links (Facebook)</th>
             <th>Questions</th>
-            <th>Presenter Name</th>
         </tr> 
         <tr>
             <td align="center"><b>1</b></td>
@@ -318,13 +287,11 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/">Peak index in a mountain array</a><br>
                 <a href="https://leetcode.com/problems/parsing-a-boolean-expression/description/">Parsing a boolean expression</a>
             </td>
-            <td align="center">Quaid Khalid</td>
         </tr>
         <tr>
             <td align="center"><b>2</b></td>
             <td align="center"><a href="https://fb.watch/vqY6gA0XJy/">Lecture Recording</a></td>
             <td align="center"><a href="https://colab.research.google.com/drive/1aHEFKKV2xk91kTZz-IVH0zNaV5oVnNJt?usp=sharing">Stack Implementation</a></td>
-            <td align="center">M.Shaharyar</td>
         </tr>  
         <tr>
             <td align="center"><b>3</b></td>
@@ -333,7 +300,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/make-the-string-great/">Make the string great</a><br>
                 <a href="https://leetcode.com/problems/baseball-game/">Baseball game</a>
             </td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>4</b></td>
@@ -342,7 +308,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">Evaluate reverse polish notation</a><br>
                 <a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing stars from a string</a>
             </td>
-            <td align="center">M.Shaharyar</td>
         </tr>
         <tr>
             <td align="center"><b>5</b></td>
@@ -351,7 +316,6 @@ The repository contains all the course-relevant material, such as slides, lectur
                 <a href="https://leetcode.com/problems/two-sum/description/">Two sum</a><br>
                 <a href="https://leetcode.com/problems/valid-parentheses/description/">Valid parentheses</a>
             </td>
-            <td align="center">Jaweria Ameen, Samina, Asama Zubair</td>
         </tr>
     </tbody>
 </table>
