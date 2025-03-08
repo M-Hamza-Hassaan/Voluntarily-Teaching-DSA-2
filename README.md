@@ -1,7 +1,7 @@
 # Welcome to the Data Structures and Algorithms for Absolute Beginners Course
 **Here, You'll Find:**
 <br>
-The repository contains all the course-relevant material, such as slides, lecture recordings, and leetCode problem links.
+This repository contains all the course-relevant material, such as slides, lecture recordings, and leetCode problem links.
 
 **Beginner Friendly LeetCode practice session lectures** This course is designed for absolute beginners helping them kick off their coding journey. We will cover
  everything from Arrays 𝘁𝗼 Space and Time Complexity and Queue.
